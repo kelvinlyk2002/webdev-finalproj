@@ -1,3 +1,29 @@
+
+/*!
+ * Bootstrap Example - Cover (https://getbootstrap.com/docs/4.5/examples/cover/)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+
+/*!
+ * Start Bootstrap - Bootstrap Header with HTML5 Video Background (https://startbootstrap.com/snippets/video-header/)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT
+ */
+
+/*!
+ * Start Bootstrap - One Page Wonder v5.0.8 (https://startbootstrap.com/template-overviews/one-page-wonder)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
+ */
+  
+/*!
+ * Start Bootstrap - Full Page Image HTML Background for Bootstrap (https://startbootstrap.com/snippets/full-image-background/)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT
+ */
+
+
 /* Links */
 nav a,
 nav a:focus,
@@ -68,28 +94,8 @@ nav a:hover {
   z-index: 1;
 }
 
-/*!
- * Start Bootstrap - One Page Wonder v5.0.8 (https://startbootstrap.com/template-overviews/one-page-wonder)
- * Copyright 2013-2020 Start Bootstrap
- * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
- */
   
-  .btn-xl {
-    text-transform: uppercase;
-    padding: 1.5rem 3rem;
-    font-size: 0.9rem;
-    font-weight: 700;
-    letter-spacing: 0.1rem;
-  }
-  
-  .bg-black {
-    background-color: #000 !important;
-  }
-  
-  .rounded-pill {
-    border-radius: 5rem;
-  }
-  
+
   .navbar-custom {
     padding-top: 1rem;
     padding-bottom: 1rem;

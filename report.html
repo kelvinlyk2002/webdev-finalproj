@@ -53,8 +53,13 @@
             <h1 class="font-weight-light">Large Coursework - Kelvin Yui Kwan Law</p>
             <p class="lead">Student ID: 190318033</p>
             <h3 class="font-weight-light">Introduction: What is the essential story being told by your site and what type of structure did you choose to implement.</h3>
-            <p class="lead"></p>
-
+            <p class="lead">As a resident in Hong Kong it is hard to distant myself in what have happened since June 2019, which some would call "Summer of Freedom". It is the largest democratic movement Hong Kong has ever seen, and likely it is history in the making. It is hoped for this website to provide a brief and concise overview of the movement, from a local's point of view.</p>
+            <h3 class="font-weight-light">State 3 things that have inspired you when creating your website</h3>
+            <ol>
+                <li>1</li>
+                <li>2</li>
+                <li>3</li>
+            </ol>
             <h3 class="font-weight-light">State 3 ways in which your site is accessible</h3>
             <ol>
                 <li>Alt text</li>
@@ -69,11 +74,9 @@
             </ol>
             <h3 class="font-weight-light">State 3 things you had to learn/find out by yourself when creating your site, and describe how you did that.</h3>
             <ol>
-                <li>In drafting the structure of the content pages, I wished to separate the data from the html as suggested in the lectures. However, I found out that it is not possible to read local JSON files without making amendments to security settings. Firstly I looked to jQuery as it is a powerful and common framework that would likely have the needed features. I found the method $.getJSON() [!], which when I applied the console logged that it cannot be done due to security measures. There are also native support by using the Fetch API [!] and I have also read that some technology stack that can achieve reading/writing local JSON files, such as MongoDB + NodeJS. However, in this project, it would be an overkill and I have worked around by wrapping the data in a variable instead.</li>
-                <p></p>
-                <li>I first learned about handlebars in the lectures, and I was eager to apply it. Previously I had experience developing in PHP but very few chances on working with client-side compiling. The lecture used a custom helper in order to demostrate the helpers functions in handlebars but a {{each }} built-in helper is available to create a similar for loop effect. [!] Thus I used the built in helper instead and the result (json+handlebars) is much cleaner than a SQL+php+jQuery implementation.</li>
-                <p></p>
-                <li>I have also used git to maintain version control and keep progress of the website. It is accessible on my github: <a href="https://github.com/kelvinlyk2002/webdev-finalproj">here</a>. Although I have some development experience before, I seldom use git since I was working by myself. I have decided to use git for this project even if it is individual, so I can have more experience. It was a valuable learning experience since git is a popular version control & almost an industry standard.</li>
+                <li class="pb-3"><strong>$.getJSON()</strong> - In drafting the structure of the content pages, I wished to separate the data from the html as suggested in the lectures. However, I found out that it is not possible to read local JSON files without making amendments to security settings. Firstly I looked to jQuery as it is a powerful and common framework that would likely have the needed features. I found the method $.getJSON() [!], which when I applied the console logged that it cannot be done due to security measures. There are also native support by using the Fetch API [!] and I have also read that some technology stack that can achieve reading/writing local JSON files, such as MongoDB + NodeJS. However, in this project, it would be an overkill and I have worked around by wrapping the data in a variable instead.</li>
+                <li class="pb-3"><strong>{{each }}</strong> - I first learned about handlebars in the lectures, and I was eager to apply it. Previously I had experience developing in PHP but very few chances on working with client-side compiling. The lecture used a custom helper in order to demostrate the helpers functions in handlebars but a {{each }} built-in helper is available to create a similar for loop effect. [!] Thus I used the built in helper instead and the result (json+handlebars) is much cleaner than a SQL+php+jQuery implementation.</li>
+                <li class="pb-3"><strong>git commit -a -m "progress"</strong> - I have also used git to maintain version control and keep progress of the website. It is accessible on my github: <a href="https://github.com/kelvinlyk2002/webdev-finalproj">here</a>. Although I have some development experience before, I seldom use git since I was working by myself. I have decided to use git for this project even if it is individual, so I can have more experience. It was a valuable learning experience since git is a popular version control & almost an industry standard.</li>
             </ol>
             <h3 class="font-weight-light">What aspect(s) of your work do you think worked well and why?</h3>
             <p class="lead">Student ID: 190318033</p>
@@ -82,15 +85,30 @@
             <p class="lead">Student ID: 190318033</p>
 
             <h3 class="font-weight-light">What resources were used when creating your work? </h3>
-            <p class="lead">Student ID: 190318033</p>
+            <ol>
+                <li class="pb-3">
+                    <strong>HTML & CSS</strong> - This website used heavily on the bootstrap framework and also referred much of the CSS codes from MIT-licensed templates and snippets. They are built very aesthetically and much more efficient than I would be building from scratch. It also jumpstarted the progress as the previews are available, as cited in the reference section.
+                </li>
+                <li class="pb-3">
+                    <strong>Photos & Videos</strong> - Photos and videos are collected from local and international news media, as well as online discussion boards and groups. Other image collection websites such as <a href="https://www.pinterest.com/wildwong/hong-kong-antielab/">pinterest.com</a> are also used to search for relevant images.
+                </li>
+                <li class="pb-3">
+                    <strong>Functionalities</strong> - When I was implementing the templates and the handlebars, I have made multiple references to <a href="stackoverflow.com">stackoverflow.com</a> to seek guidance, example, or inspiration on an implementation I need. Most of the time the solutions I found are very close to the one I need, but I would need to adjust and make them applicable to my needs.
+                </li>
+            </ol>
 
             <h3 class="font-weight-light">Site Map</h3>
             <h3 class="font-weight-light">Wireframes & Mockups</h3>
             <h3 class="font-weight-light">References</h3>
             <ol>
-                <li>w3schools.com,'jQuery getJSON() Method', [Online]. Available: <a href="https://www.w3schools.com/jquery/ajax_getjson.asp">https://www.w3schools.com/jquery/ajax_getjson.asp</a>. [Accessed: 26-Aug-2020]</li>
+                <li>w3schools.com, 'jQuery getJSON() Method', [Online]. Available: <a href="https://www.w3schools.com/jquery/ajax_getjson.asp">https://www.w3schools.com/jquery/ajax_getjson.asp</a>. [Accessed: 26-Aug-2020]</li>
                 <li>stackoverflow.com, 'How to read an external local JSON file in JavaScript?', [Online]. Available: <a href="https://stackoverflow.com/questions/19706046/how-to-read-an-external-local-json-file-in-javascript">https://stackoverflow.com/questions/19706046/how-to-read-an-external-local-json-file-in-javascript.</a> [Accessed: 26-Aug-2020]</li>
-                <li>handlebarsjs.com, 'Handlebars Reference', 2016. [Online]. Available: <a href="http://handlebarsjs.com/reference.html">"http://handlebarsjs.com/reference.html"</a>.[Accessed: 26-Aug-2020]</li>
+                <li>handlebarsjs.com, 'Handlebars Reference', 2016. [Online]. Available: <a href="http://handlebarsjs.com/reference.html">http://handlebarsjs.com/reference.html</a>.[Accessed: 26-Aug-2020]</li>
+                <li>pinterest.com, 'Hong Kong antiELAB'. [Online]. Available: <a href="https://www.pinterest.com/wildwong/hong-kong-antielab/">https://www.pinterest.com/wildwong/hong-kong-antielab/</a></li>
+                <li>M. Otto, 'Cover'. [Source code]. <a href="https://getbootstrap.com/docs/4.5/examples/cover/">https://getbootstrap.com/docs/4.5/examples/cover/</a> </li>
+                <li>D. Miller, 'Bootstrap Header with HTML5 Video Background'. <a href="https://startbootstrap.com/snippets/video-header/">https://startbootstrap.com/snippets/video-header/</a> </li>
+                <li>D. Miller, 'One Page Wonder v5.0.8'. <a href="https://startbootstrap.com/template-overviews/one-page-wonder">https://startbootstrap.com/template-overviews/one-page-wonder</a></li>
+                <li>D. Miller, 'Full Page Image HTML Background for Bootstrap'. <a href="https://startbootstrap.com/snippets/full-image-background/">https://startbootstrap.com/snippets/full-image-background/</a></li>
             </ol>
             
           </div>
@@ -98,14 +116,6 @@
       </div>
   </div>
 
-
-  <!-- Footer -->
-  <footer class="py-5 bg-black">
-    <div class="container">
-      <p class="m-0 text-center text-white small">This is a final project for Web Development. All contents are personal opinions and illustrative only.</p>
-    </div>
-    <!-- /.container -->
-  </footer>
 
     <!-- JS libraries -->
     <!-- Bootstrap -->
