@@ -1,4 +1,4 @@
-{ 
+var eventList = { 
     eventItems:[
                     {
                         imagePosAdj: "order-lg-2",
@@ -22,5 +22,4 @@
                         comment: "123"
                     }
                 ]
-    
 };
