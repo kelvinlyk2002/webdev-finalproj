@@ -51,7 +51,7 @@
     overflow: hidden;
     padding-top: calc(7rem + 72px);
     padding-bottom: 7rem;
-    background: url('https://source.unsplash.com/twukN12EN7c/1920x1080');
+    background: url('assets/img/CUHK.jpeg');
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: scroll;
@@ -67,26 +67,23 @@
 
   <script id="templateEventList" type="template/handlebars">
   {{#each eventItems}}
-  <section>
-    <div class="container">
-      <div class="row align-items-center">
-        <div class="col-lg-6 {{this.imagePosAdj}}">
-          <div class="p-5">
-            <img class="img-fluid rounded-circle" src="{{this.imagePath}}" alt="">
-          </div>
-        </div>
-        <div class="col-lg-6 {{this.textPosAdj}}">
-          <div class="p-5">
-            <h2 class="display-4">{{this.title}}</h2>
-            <p>{{this.comment}}</p>
-          </div>
+  <div class="col-xl-6 my-4">
+    <div class="card border-0 shadow">
+      <img src="{{this.imagePath}}" class="card-img-top">
+        <div class="card-body text-center">
+          <h5 class="card-title mb-0">{{this.title}}</h5>
+          <div class="card-text text-black-50">{{this.comment}}</div>
         </div>
       </div>
     </div>
-  </section>
   {{/each}}
   </script>
-  <div id="eventListTarget"></div>
+
+<!-- Page Content -->
+  <div class="container">
+    <div class="row" id="eventListTarget">
+    </div>
+  </div>
 
   <!-- Footer -->
   <footer class="py-5 bg-black">

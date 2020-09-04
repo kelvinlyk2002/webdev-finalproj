@@ -90,7 +90,7 @@ nav a:hover {
   height: 100%;
   width: 100%;
   background-color: black;
-  opacity: 0.5;
+  opacity: 0.2;
   z-index: 1;
 }
 
@@ -120,6 +120,7 @@ nav a:hover {
   header.masthead .masthead-content {
     z-index: 1;
     position: relative;
+    text-shadow: 2px 2px 4px #000000;
   }
   
   header.masthead .masthead-content .masthead-heading {
@@ -151,4 +152,18 @@ nav a:hover {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+  }
+
+  .carousel-item {
+    height: 100vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+  .carousel-caption {
+    text-shadow: 2px 2px 4px #000000;
   }
