@@ -2,7 +2,7 @@ var eventList = {
     eventItems:[
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/poonhiuwing.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/poonhiuwing.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Poon Hiu Wing & Chan Tong Kai",
                         title: "Murder of Poon Hiu-wing & Introduction of the extradiction bill",
@@ -10,7 +10,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/609.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/609.jpg",
                         textPosAdj: "",
                         alt: "A million marched against the bill",
                         title: "Earlier rallies & 9 June protest",
@@ -18,7 +18,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/firstdenialofwithdrawal.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/firstdenialofwithdrawal.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Carrie Lam in denial",
                         title: "First denial of withdrawal",
@@ -26,7 +26,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/612.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/612.png",
                         textPosAdj: "",
                         alt: "Police committing a war crime by attacking first aid stations",
                         title: "12 June",
@@ -34,7 +34,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/leunglingkit.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/leunglingkit.png",
                         textPosAdj: "order-lg-1",
                         alt: "Leung Ling-kit standing by the edge",
                         title: "First death - Leung Ling-Kit",
@@ -42,7 +42,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/616.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/616.jpg",
                         textPosAdj: "",
                         alt: "2 million marched",
                         title: "16 June",
@@ -50,7 +50,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/621.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/621.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Sieging police HQ", 
                         title: "21 June police HQ sieges",
@@ -58,7 +58,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/g20.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/g20.jpg",
                         textPosAdj: "",
                         alt: "G20 Newspaper Ads",
                         title: "G20 Newspaper Ads",
@@ -66,7 +66,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/701.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/701.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Leung Kai-ping giving a speech in LegCo conference chamber",
                         title: "1 July & Storming of LegCo",
@@ -74,7 +74,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/707.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/707.jpg",
                         textPosAdj: "",
                         alt: "Protestors at star avenue, tsim sha tsui",
                         title: "7 July Tsim Sha Tsui march",
@@ -82,7 +82,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/713.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/713.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Protestors holding 'Reclaim Sheung Shui' signs",
                         title: "13 July Reclaim Sheung Shui",
@@ -90,7 +90,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/714.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/714.jpg",
                         textPosAdj: "",
                         alt: "Police assaulting people in a mall",
                         title: "14 July Sha Tin march",
@@ -98,7 +98,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/717.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/717.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Seniors supporting the movement",
                         title: "17 July elderly march",
@@ -106,7 +106,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/721sheungwan.jpeg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/721sheungwan.jpeg",
                         textPosAdj: "",
                         alt: "Defaced Chinese national emblem",
                         title: "21 July Sheung Wan Clash",
@@ -114,7 +114,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/721.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/721.png",
                         textPosAdj: "order-lg-1",
                         alt: "Triads standing next riot police",
                         title: "721 Terriorist Attack",
@@ -122,7 +122,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/726.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/726.jpg",
                         textPosAdj: "",
                         alt: "Protestors holding a sign to warn tourist of the recent terriorist attacks by the government",
                         title: "26 July airport sit-in",
@@ -130,7 +130,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/727.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/727.jpg",
                         textPotsAdj: "order-lg-1",
                         alt: "Tear gas cannister in an elderly home",
                         title: "27 July Reclaim Yuen Long",
@@ -138,7 +138,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/728.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/728.jpg",
                         textPosAdj: "",
                         alt: "Protestors holding makeshift shields",
                         title: "28 July Sheung Wan protest",
@@ -146,7 +146,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/730.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/730.png",
                         textPosAdj: "order-lg-1",
                         alt: "Police points a Remington shotgun to citizens",
                         title: "30 July Kwai Chung",
@@ -154,7 +154,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/801.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/801.jpg",
                         textPosAdj: "",
                         alt: "A sea of light from the phone torches in a rally of professionals and civil servants",
                         title: "1-3 August Sectorial rallies",
@@ -162,7 +162,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/803.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/803.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Unequiped protestor extinguishing tear gas cannisters",
                         title: "3 August protests in Tai Kok Tsui",
@@ -170,7 +170,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/804.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/804.jpg",
                         textPosAdj: "",
                         alt: "Thousands marching in Tseung Kwan O",
                         title: "4 August march in Tseung Kwan O",
@@ -178,7 +178,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/805.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/805.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Police firing tear gas cannisters from heights, creating a fatal environment",
                         title: "5 August general strike",
@@ -186,7 +186,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/807.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/807.jpg",
                         textPosAdj: "",
                         alt: "Protestor holding a paper, concentrated by laser, to counterproof of police's claim",
                         title: "Solidarity protest of laser pointer arrest",
@@ -194,7 +194,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/809.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/809.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Protestors standing in solidarity with the girl who lost her eye to police",
                         title: "11 August airport sit-ins",
@@ -202,7 +202,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/811.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/811.png",
                         textPosAdj: "",
                         alt: "Girl who lost her eye to police",
                         title: "11 August protests",
@@ -210,7 +210,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/sanukling.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/sanukling.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Standing up again police's sex abuse to protestors",
                         title: "San Uk Ling",
@@ -218,7 +218,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/814.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/814.jpg",
                         textPosAdj: "",
                         alt: "Marchers in Tai Kok Tsui",
                         title: "12–14 August police brutality protests",
@@ -226,7 +226,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/818.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/818.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "1.7 million assembleed in Causeway Bay",
                         title: "18 August rally",
@@ -234,7 +234,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/823.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/823.jpg",
                         textPosAdj: "",
                         alt: "Human chain all the way up to Lion Rock, a symbolic range representing Hong Kong",
                         title: "23 August The Hong Kong Way",
@@ -242,7 +242,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/824.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/824.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Protestor crossing a fallen surveillance pole",
                         title: "24 August Kwun Tong anti-surveillance protest",
@@ -250,7 +250,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/825.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/825.jpg",
                         textPosAdj: "",
                         alt: "A police pointed a gun to a Reverend",
                         title: "25 August Tsuen Wan protest",
@@ -258,7 +258,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/828.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/828.png",
                         textPosAdj: "order-lg-1",
                         alt: "#MeToo gathering in Hong Kong against police sexual abuse",
                         title: "28 August #MeToo rally",
@@ -266,7 +266,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/831.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/831.jpg",
                         textPosAdj: "",
                         alt: "Unarmed family being cruelly pepper sprayed, for no reason",
                         title: "31 August protest and 831 terriorist attack",
@@ -274,7 +274,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/901.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/901.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Kilometers long traffic picking up stranded protestors in Tung Chung",
                         title: "1 September airport protest",
@@ -282,7 +282,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/908.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/908.jpg",
                         textPosAdj: "",
                         alt: "Waving US flags protestors gathered in front of US embassy",
                         title: "8 September march for Hong Kong Human Rights and Democracy Act",
@@ -290,7 +290,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/913.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/913.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "'FREE HK' signs on lion rock",
                         title: "13 September Mid-Autumn Festival human chains",
@@ -298,7 +298,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/928.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/928.jpg",
                         textPosAdj: "",
                         alt: "Police spraying chemical liquid onto protestors",
                         title: "28 September CHRF rally",
@@ -306,7 +306,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/929.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/929.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Dozens of city march in unison with HK",
                         title: "29 September Anti-CCP protests",
@@ -314,7 +314,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/1001.jpeg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/1001.jpeg",
                         textPosAdj: "",
                         alt: "Police shot a protestor in his lung",
                         title: "1 October National Day of China protests",
@@ -322,7 +322,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/1004.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/1004.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Police pointed his gun to protestors in the airport",
                         title: "4-6 Protests against the emergency law",
@@ -330,7 +330,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/1020.png",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/1020.png",
                         textPosAdj: "",
                         alt: "Protestor stood in front of a roadblock of bricks",
                         title: "20 October Kowloon protest",
@@ -338,7 +338,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/1024.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/1024.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "HK stood with Catalonia",
                         title: "24 October solidarity rally for the Catalan protests",
@@ -346,7 +346,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/1103.jpeg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/1103.jpeg",
                         textPosAdj: "",
                         alt: "District council had his ear bitten off by Beijing supporters",
                         title: "3 November mall sit-ins",

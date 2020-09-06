@@ -2,7 +2,7 @@ var eventList = {
     eventItems:[
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/handover.jpeg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/handover.jpeg",
                         textPosAdj: "order-lg-1",
                         alt: "1997 handover",
                         title: "Handover",
@@ -10,7 +10,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/SARS.jpeg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/SARS.jpeg",
                         textPosAdj: "",
                         alt: "Workers in mask",
                         title: "SARS",
@@ -18,7 +18,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/2005.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2005.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Tsang, Chief Executive of the time, delivered a failed political reform",
                         title: "First denial of political reform in 2005",
@@ -26,7 +26,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/2008.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2008.jpg",
                         textPosAdj: "",
                         alt: "2008 Beijing Olympic",
                         title: "2008 Beijing Olympic",
@@ -34,7 +34,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/2009.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2009.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Financial crisis hits HK",
                         title: "Aftermath of the 2009 financial tsunami",
@@ -42,7 +42,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/2010.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2010.jpg",
                         textPosAdj: "",
                         alt: "Citizens opposing another failed political reform",
                         title: "Political reform in 2010",
@@ -50,7 +50,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/sheungshui.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/sheungshui.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "HKers against the Chinese in the border communities",
                         title: "Rising conflict in the borders",
@@ -58,7 +58,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/2012.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2012.jpg",
                         textPosAdj: "",
                         alt: "Joshua Wong's debut social movement",
                         title: "2012-13 Anti National Education Movements",
@@ -66,7 +66,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/oclp.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/oclp.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "3 Occupy Central advocates",
                         title: "Third denial of universal suffrage",
@@ -74,7 +74,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/2014.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2014.jpg",
                         textPosAdj: "",
                         alt: "First use of tear gas in Hong Kong since 2005",
                         title: "Start of the Umbrella Movement",
@@ -82,7 +82,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/harcourt.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/harcourt.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Occupants in Admiralty",
                         title: "Occupying Central with Love and Peace",
@@ -90,7 +90,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/demosisto.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/demosisto.jpg",
                         textPosAdj: "",
                         alt: "Demosisto",
                         title: "Blossom of post-umbrella organizations",
@@ -98,7 +98,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/7po.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/7po.jpg",
                         textPosAdj: "order-lg-1",
                         alt: "Seven police show first sign of brutality",
                         title: "Police authorised for brutality",
@@ -106,7 +106,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "",
-                        imagePath: "assets/img/2016dq.jpg",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/2016dq.jpg",
                         textPosAdj: "",
                         alt: "Yau Wai-ching, being disqualified after showing HK is not China in her sworn-in",
                         title: "2016 LegCo Election and disqualification and infighting of pan-democractic fractions",
@@ -114,7 +114,7 @@ var eventList = {
                     },
                     {
                         imagePosAdj: "order-lg-2",
-                        imagePath: "assets/img/fishball.gif",
+                        imagePath: "https://taxater.com/private/webdev/assets/img/fishball.gif",
                         textPosAdj: "order-lg-1",
                         alt: "Police throwing bricks to protestors in 2016",
                         title: "2016 Fishball Revolution",
